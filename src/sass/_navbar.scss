@@ -1,0 +1,19 @@
+.navbar {
+  display: flex;
+  width: 100%;
+  position: absolute;
+  margin-top: 1.5rem;
+
+  &__container {
+    display: flex;
+    width: 100%;
+    position: relative;
+    justify-content: space-evenly;
+
+    &__title {
+      display: flex;
+      color: rgb(196, 120, 21);
+      font-size: 1.5rem;
+    }
+  }
+}
