@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import "../sass/_index.scss";
+import "../sass/_loader.scss";
 
 const Loader = () => {
   useEffect(() => {
